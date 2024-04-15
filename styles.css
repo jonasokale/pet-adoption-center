@@ -7,6 +7,11 @@ html {
 }
 
 /*selecting the body and the head means affecting the whole webpage*/
+
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Source Sans 3", sans-serif;
 }
